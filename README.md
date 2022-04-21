@@ -25,4 +25,5 @@ I have assembled knowledge in the following fields:
 # Planned Projects
 * Finalizing my [passwordmanager](github.com/malnjayz/passwordmanager)
 * Image Server (like imgur)
+* URL Shortener
 * more to come...
