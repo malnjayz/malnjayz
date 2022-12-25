@@ -1,5 +1,5 @@
-# Hi! I'm Lucien!
-I am a 20yo who almost completed his apprenticeship as a professional IT-Guy. I work on my projects out of interest in the broad field of Information Technology.
+# Hi! I'm Lucien! 👋
+I am a 21yo professional IT-Guy.
 
 I like to deploy my applications using docker-compose in order to provide an easy setup and configuration.
 
