@@ -1,7 +1,7 @@
 # Hi! I'm Lucien! 👋
 I am a 21yo professional IT-Guy.
 
-I like to deploy my applications using docker-compose in order to provide an easy setup and configuration.
+I like to deploy my applications using docker-compose or kubernetes-ready in order to provide an easy setup and configuration.
 
 If you have any questions related to my projects or other programming issues you can reach me at: git@maln.dev.
 
